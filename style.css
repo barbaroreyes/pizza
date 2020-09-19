@@ -8,7 +8,9 @@
 */
 
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
-
+*{
+  text-decoration: none;
+}
 body {
   background-color: #5f5345;
 }
@@ -62,13 +64,25 @@ p, li {
   clear: both;
 }
 .navigation{
-  height: 20px;
+  width: 66%;
+  height: 30px;
    background: #8b1b00;
    display: flex;
    justify-content: space-around;
+   
 }
 .nav  {
   text-decoration: none;
   color: #fff;
+  margin-top: 8px;
+  cursor: pointer;
 }
+ .navi{
+   color: black;
+   
+   margin: 5px;
+ }
+ .btn{
+   margin:6px;
+ }
  
