@@ -61,4 +61,14 @@ p, li {
   display: table;
   clear: both;
 }
+.navigation{
+  height: 20px;
+   background: #8b1b00;
+   display: flex;
+   justify-content: space-around;
+}
+.nav  {
+  text-decoration: none;
+  color: #fff;
+}
  
