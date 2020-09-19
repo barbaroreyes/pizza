@@ -79,10 +79,16 @@ p, li {
 }
  .navi{
    color: black;
-   
    margin: 5px;
+ }
+ .navi:hover{
+   color: burlywood;
  }
  .btn{
    margin:6px;
+ }
+ .btn:hover{
+   background: blueviolet;
+   
  }
  
